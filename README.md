@@ -26,5 +26,5 @@ Go to localhost:3000
 
 ## Digression
 
-在創建 github repository 的時候查到的命名習慣
+在創建 github repository 的時候查到的命名習慣 \
 https://stackoverflow.com/questions/11947587/is-there-a-naming-convention-for-git-repositories
