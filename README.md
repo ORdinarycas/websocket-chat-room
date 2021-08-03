@@ -9,7 +9,9 @@
 無意間發現 Node.js 一直都沒有 Websocket support to core \
 https://github.com/nodejs/node/issues/19308
 
+## Demo
 
+![WebSocket Chat Room](https://raw.githubusercontent.com/ORdinarycas/websocket-chat-room/main/demo/websocket-chat-room.gif)
 
 ## Usage
 
