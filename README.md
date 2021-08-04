@@ -7,7 +7,11 @@
 的時候一直連接不上，發生 `error Error: ETIMEDOUT, Connection timed out` ，雖然有找到一些解決方發 [Github issues](https://github.com/jaggedsoft/node-binance-api/issues/48#issuecomment-356762732)，但不如先自己用 WebSocket 寫個聊天室試試。
 
 無意間發現 Node.js 一直都沒有 Websocket support to core \
+https://stackoverflow.com/questions/52995152/does-node-have-built-in-support-for-websockets
+
 https://github.com/nodejs/node/issues/19308
+
+Node.js v16.6.1 documentation ([TLS](https://nodejs.org/dist/latest-v16.x/docs/api/tls.html)、[Net](https://nodejs.org/dist/latest-v16.x/docs/api/net.html#net_socket_connect))
 
 ## Demo
 
